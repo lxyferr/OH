@@ -1,1 +1,1 @@
-![Griffith GIF](https://raw.githubusercontent.com/lxyferr/lxyferr/main/assets/griffith.gif)
+<img src="https://raw.githubusercontent.com/lxyferr/lxyferr/main/profile-gif.gif" alt="Griffith Animated GIF" width="300"/>
